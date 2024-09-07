@@ -1,0 +1,393 @@
+{
+  "bots": [
+    {
+      "id": 1,
+      "name": "Bot 1",
+      "description": "Bot 1 is a powerful binary automated bot designed for trading on the Volatility 100 Index. It utilizes a strategy-based approach to predict trade outcomes and offers a duration of 1 Ticks. With a recommended initial amount of $2.5, the bot employs a martingale factor of 11 up to a maximum level of 3. The recommended balance for optimal performance is approximately $332.5 (~333$). The bot has undergone extensive testing with 56 runs, achieving a win-loss ratio of 52:4. It also comes with a video preview showcasing its capabilities. Purchase includes lifetime access to updates and support.",
+      "bot_type": "hot",
+      "category": "Trending",
+      "tags": ["tag1", "tag2", "tag3"],
+      "version": "1.0",
+      "author": "Author 1",
+      "created_at": "2023-06-01",
+      "updated_at": "2023-06-10",
+      "price_usd": 500,
+      "current_price": 450,
+      "discount": 10,
+      "discounted_price": 405,
+      "roi": "70%",
+      "downloads": 125,
+      "views": 987,
+      "likes": 76,
+      "reviews": [
+        {
+          "user": "User3",
+          "rating": 5.0,
+          "review": "I've been using Bot 1 for several months now, and it consistently delivers impressive results. Highly recommended!"
+        },
+        {
+          "user": "User4",
+          "rating": 4.5,
+          "review": "This bot has significantly improved my trading performance. The support team is also very responsive. Great product!"
+        },
+{
+"user": "User1",
+"rating": 4.0,
+"review": "Bot 1 has been a game-changer for me. It automates repetitive tasks and saves me a lot of time. Very satisfied with its performance."
+},
+{
+"user": "User2",
+"rating": 3.5,
+"review": "I started using Bot 1 recently, and it has been decent so far. There are a few areas that could be improved, but overall, it's a helpful tool."
+},
+{
+"user": "User5",
+"rating": 4.8,
+"review": "Bot 1 is an excellent addition to my workflow. It's intuitive to use and has increased my productivity. Highly recommend giving it a try!"
+},
+{
+"user": "User6",
+"rating": 4.2,
+"review": "I've tried several bots, but Bot 1 stands out with its accuracy and reliability. It's become an essential tool in my daily tasks."
+},
+{
+"user": "User7",
+"rating": 3.0,
+"review": "Bot 1 has some useful features, but I encountered a few bugs during my usage. The customer support needs improvement. Average experience overall."
+},
+{
+"user": "User8",
+"rating": 4.7,
+"review": "Bot 1 exceeded my expectations. It's incredibly powerful and flexible, allowing me to automate complex workflows effortlessly. Impressed!"
+},
+{
+"user": "User9",
+"rating": 3.8,
+"review": "Bot 1 has a steep learning curve, but once you get the hang of it, it's incredibly useful. It has definitely boosted my efficiency."
+},
+{
+"user": "User10",
+"rating": 4.5,
+"review": "I've been using Bot 1 for a while now, and it's been a reliable companion. It never fails to deliver the results I need. Satisfied with its performance."
+}
+      ],
+      "settings": {
+        "market": "Volatility 100 Index",
+        "trade_type": "Differs",
+        "prediction": "Based on Strategy",
+        "duration": "1 Ticks",
+        "stake": "USD",
+        "recommended_settings": {
+          "initial_amount": "$2.5",
+          "martingale_factor": 11,
+          "max_martingale_level": 3,
+          "martingale_step": ["$2.5", "$27.5", "$302.5"],
+          "recommended_bal": "$332.5 (~333$)",
+          "stop_loss": "Set by yourself",
+          "take_profit": "$1 - $5 per run bot"
+        },
+        "testing_results": {
+          "maximum_loss_in_row": 2,
+          "maximum_loss_amount": "$30",
+          "num_of_runs": 56,
+          "win_loss_ratio": "52:4",
+          "makes": 250,
+          "makes_in_time": "40 mins"
+        }
+      },
+      "indicators": ["Moving average (MA)", "Exponential moving average (EMA)", "Stochastic oscillator", "Moving average convergence divergence (MACD)", "Bollinger bands", "Relative strength index (RSI)", "Fibonacci retracement", "Ichimoku cloud", "Standard deviation", "Average directional index"],
+      "performance_metrics": {
+        "average_return_per_trade": "15%",
+        "maximum_drawdown": "10%",
+        "win_rate": "80%",
+        "average_trade_duration": "2 hours",
+        "profit_factor": "1.5"
+      },
+      "backtesting_results": {
+        "data_set": "historical_data.csv",
+        "performance_overview": {
+          "total_trades": 1000,
+          "winning_trades": 800,
+          "losing_trades": 200,
+          "winning_percentage": "80%",
+          "profit_factor": "1.6",
+          "maximum_drawdown": "8%"
+        }
+      },
+      "additional_info": "Bot 1 is a powerful binary automated bot designed for trading on the Volatility 100 Index. It utilizes a strategy-based approach to predict trade outcomes and offers a duration of 1 Ticks. With a recommended initial amount of $2.5, the bot employs a martingale factor of 11 up to a maximum level of 3. The recommended balance for optimal performance is approximately $332.5 (~333$). The bot has undergone extensive testing with 56 runs, achieving a win-loss ratio of 52:4. It also comes with a video preview showcasing its capabilities. Purchase includes lifetime access to updates and support.",
+       "download_link": "https://example.com/bot1-download",
+      "photos": [
+        "https://media.threatpost.com/wp-content/uploads/sites/103/2020/04/29122011/abstract-robot-thinking.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO7P-CiXH7vl9H4U-f-M_dWlWqRM6-VHm8UQ&usqp=CAU",
+        "https://example.com/bot1-photo3.jpg"
+      ],
+      "video_preview": "https://www.shutterstock.com/shutterstock/videos/1016621530/preview/stock-footage--sec-count-down-animation-neon-color-pop-style-counter-count-end-will-whiteout.webm",
+      "supported_platforms": ["Platform A", "Platform B"],
+      "support_and_updates": "Bot 1 comes with dedicated customer support and regular updates to adapt to changing market conditions.",
+      "total_review_ratings": 2,
+      "average_rating": 4.75
+    },
+    {
+      "id": 2,
+      "name": "Bot 2",
+      "description": "This is the description of Bot 2.",
+      "bot_type": "aggresive",
+      "category": "Recommended",
+      "tags": ["tag4", "tag5", "tag6"],
+      "version": "2.0",
+      "author": "Author 2",
+      "created_at": "2023-06-05",
+      "updated_at": "2023-06-12",
+      "price_usd": 150,
+      "current_price": 100,
+      "discount": 0,
+      "discounted_price": 50,
+      "roi": "85%",
+      "downloads": 210,
+      "views": 754,
+      "likes": 128,
+      "reviews": [
+        {
+          "user": "User5",
+          "rating": 4.0,
+          "review": "Bot 2 has been performing consistently well for me. It's a reliable tool for automated trading."
+        },
+        {
+          "user": "User6",
+          "rating": 4.5,
+          "review": "I'm impressed with the accuracy of Bot 2's predictions. It has helped me increase my trading profits."
+        }
+      ],
+      "settings": {
+        "market": "Forex",
+        "trade_type": "Long/Short",
+        "prediction": "Technical Analysis",
+        "duration": "1 hour",
+        "stake": "USD",
+        "recommended_settings": {
+          "initial_amount": "$5.0",
+          "martingale_factor": 8,
+          "max_martingale_level": 2,
+          "martingale_step": ["$5.0", "$40.0"],
+          "recommended_bal": "$85.0",
+          "stop_loss": "5% of account balance",
+          "take_profit": "2% - 5% per trade"
+        },
+        "testing_results": {
+          "maximum_loss_in_row": 3,
+          "maximum_loss_amount": "$50",
+          "num_of_runs": 40,
+          "win_loss_ratio": "30:10",
+          "makes": 20,
+          "makes_in_time": "20 mins"
+        }
+      },
+      "indicators": ["Moving average (MA)", "Relative strength index (RSI)", "Fibonacci retracement"],
+      "performance_metrics": {
+        "average_return_per_trade": "12%",
+        "maximum_drawdown": "15%",
+        "win_rate": "75%",
+        "average_trade_duration": "1.5 hours",
+        "profit_factor": "1.3"
+      },
+      "backtesting_results": {
+        "data_set": "historical_data.csv",
+        "performance_overview": {
+          "total_trades": 800,
+          "winning_trades": 600,
+          "losing_trades": 200,
+          "winning_percentage": "75%",
+          "profit_factor": "1.5",
+          "maximum_drawdown": "12%"
+        }
+      },
+      "additional_info": "Bot 2 is a versatile automated bot designed for Forex trading. It applies technical analysis and utilizes popular indicators such as Moving Average (MA), Relative Strength Index (RSI), and Fibonacci retracement. The bot offers a trade duration of 1 hour and supports both long and short trades. With a recommended initial amount of $5.0, it employs a martingale factor of 8 up to a maximum level of 2. The recommended balance for optimal performance is $85.0. The bot has undergone testing with 40 runs, achieving a win-loss ratio of 30:10. Purchase includes lifetime access to updates and support.",
+      "download_link": "https://example.com/bot1-download",
+      "photos": [
+        "https://example.com/bot1-photo1.jpg",
+        "https://example.com/bot1-photo2.jpg",
+        "https://example.com/bot1-photo3.jpg"
+      ],
+      "video_preview": "https://example.com/bot1-video-preview.mp4",
+      "supported_platforms": ["Platform B", "Platform C"],
+      "support_and_updates": "Bot 2 comes with dedicated customer support and regular updates to ensure the best trading experience.",
+      "total_review_ratings": 42,
+      "average_rating": 4.12
+    },
+     {
+      "id": 3,
+      "name": "Bot 3",
+      "description": "This is the description of Bot 2.",
+      "bot_type": "aggresive",
+      "category": "Recommended",
+      "tags": ["tag4", "tag5", "tag6"],
+      "version": "2.0",
+      "author": "Author 2",
+      "created_at": "2023-06-05",
+      "updated_at": "2023-06-12",
+      "price_usd": 150,
+      "current_price": 100,
+      "discount": 0,
+      "discounted_price": 50,
+      "roi": "85%",
+      "downloads": 210,
+      "views": 754,
+      "likes": 128,
+      "reviews": [
+        {
+          "user": "User5",
+          "rating": 4.0,
+          "review": "Bot 2 has been performing consistently well for me. It's a reliable tool for automated trading."
+        },
+        {
+          "user": "User6",
+          "rating": 4.5,
+          "review": "I'm impressed with the accuracy of Bot 2's predictions. It has helped me increase my trading profits."
+        }
+      ],
+      "settings": {
+        "market": "Forex",
+        "trade_type": "Long/Short",
+        "prediction": "Technical Analysis",
+        "duration": "1 hour",
+        "stake": "USD",
+        "recommended_settings": {
+          "initial_amount": "$5.0",
+          "martingale_factor": 8,
+          "max_martingale_level": 2,
+          "martingale_step": ["$5.0", "$40.0"],
+          "recommended_bal": "$85.0",
+          "stop_loss": "5% of account balance",
+          "take_profit": "2% - 5% per trade"
+        },
+        "testing_results": {
+          "maximum_loss_in_row": 3,
+          "maximum_loss_amount": "$50",
+          "num_of_runs": 40,
+          "win_loss_ratio": "30:10",
+          "makes": 20,
+          "makes_in_time": "30 mins"
+        }
+      },
+      "indicators": ["Moving average (MA)", "Relative strength index (RSI)", "Fibonacci retracement"],
+      "performance_metrics": {
+        "average_return_per_trade": "12%",
+        "maximum_drawdown": "15%",
+        "win_rate": "75%",
+        "average_trade_duration": "1.5 hours",
+        "profit_factor": "1.3"
+      },
+      "backtesting_results": {
+        "data_set": "historical_data.csv",
+        "performance_overview": {
+          "total_trades": 800,
+          "winning_trades": 600,
+          "losing_trades": 200,
+          "winning_percentage": "75%",
+          "profit_factor": "1.5",
+          "maximum_drawdown": "12%"
+        }
+      },
+      "additional_info": "Bot 2 is a versatile automated bot designed for Forex trading. It applies technical analysis and utilizes popular indicators such as Moving Average (MA), Relative Strength Index (RSI), and Fibonacci retracement. The bot offers a trade duration of 1 hour and supports both long and short trades. With a recommended initial amount of $5.0, it employs a martingale factor of 8 up to a maximum level of 2. The recommended balance for optimal performance is $85.0. The bot has undergone testing with 40 runs, achieving a win-loss ratio of 30:10. Purchase includes lifetime access to updates and support.",
+      "download_link": "https://example.com/bot1-download",
+      "photos": [
+        "https://example.com/bot1-photo1.jpg",
+        "https://example.com/bot1-photo2.jpg",
+        "https://example.com/bot1-photo3.jpg"
+      ],
+      "video_preview": "https://example.com/bot1-video-preview.mp4",
+      "supported_platforms": ["Platform B", "Platform C"],
+      "support_and_updates": "Bot 2 comes with dedicated customer support and regular updates to ensure the best trading experience.",
+      "total_review_ratings": 42,
+      "average_rating": 4.12
+    },
+     {
+      "id": 4,
+      "name": "Bot 4",
+      "description": "This is the description of Bot 2.",
+      "bot_type": "aggresive",
+      "category": "Recommended",
+      "tags": ["tag4", "tag5", "tag6"],
+      "version": "2.0",
+      "author": "Author 2",
+      "created_at": "2023-06-05",
+      "updated_at": "2023-06-12",
+      "price_usd": 150,
+      "current_price": 100,
+      "discount": 0,
+      "discounted_price": 50,
+      "roi": "85%",
+      "downloads": 210,
+      "views": 754,
+      "likes": 128,
+      "reviews": [
+        {
+          "user": "User5",
+          "rating": 4.0,
+          "review": "Bot 2 has been performing consistently well for me. It's a reliable tool for automated trading."
+        },
+        {
+          "user": "User6",
+          "rating": 4.5,
+          "review": "I'm impressed with the accuracy of Bot 2's predictions. It has helped me increase my trading profits."
+        }
+      ],
+      "settings": {
+        "market": "Forex",
+        "trade_type": "Long/Short",
+        "prediction": "Technical Analysis",
+        "duration": "1 hour",
+        "stake": "USD",
+        "recommended_settings": {
+          "initial_amount": "$5.0",
+          "martingale_factor": 8,
+          "max_martingale_level": 2,
+          "martingale_step": ["$5.0", "$40.0"],
+          "recommended_bal": "$85.0",
+          "stop_loss": "5% of account balance",
+          "take_profit": "2% - 5% per trade"
+        },
+        "testing_results": {
+          "maximum_loss_in_row": 3,
+          "maximum_loss_amount": "$50",
+          "num_of_runs": 40,
+          "win_loss_ratio": "30:10",
+          "makes": 20,
+          "makes_in_time": "9 mins"
+        }
+      },
+      "indicators": ["Moving average (MA)", "Relative strength index (RSI)", "Fibonacci retracement"],
+      "performance_metrics": {
+        "average_return_per_trade": "12%",
+        "maximum_drawdown": "15%",
+        "win_rate": "75%",
+        "average_trade_duration": "1.5 hours",
+        "profit_factor": "1.3"
+      },
+      "backtesting_results": {
+        "data_set": "historical_data.csv",
+        "performance_overview": {
+          "total_trades": 800,
+          "winning_trades": 600,
+          "losing_trades": 200,
+          "winning_percentage": "75%",
+          "profit_factor": "1.5",
+          "maximum_drawdown": "12%"
+        }
+      },
+      "additional_info": "Bot 2 is a versatile automated bot designed for Forex trading. It applies technical analysis and utilizes popular indicators such as Moving Average (MA), Relative Strength Index (RSI), and Fibonacci retracement. The bot offers a trade duration of 1 hour and supports both long and short trades. With a recommended initial amount of $5.0, it employs a martingale factor of 8 up to a maximum level of 2. The recommended balance for optimal performance is $85.0. The bot has undergone testing with 40 runs, achieving a win-loss ratio of 30:10. Purchase includes lifetime access to updates and support.",
+      "download_link": "https://example.com/bot1-download",
+      "photos": [
+        "https://example.com/bot1-photo1.jpg",
+        "https://example.com/bot1-photo2.jpg",
+        "https://example.com/bot1-photo3.jpg"
+      ],
+      "video_preview": "https://example.com/bot1-video-preview.mp4",
+      "supported_platforms": ["Platform B", "Platform C"],
+      "support_and_updates": "Bot 2 comes with dedicated customer support and regular updates to ensure the best trading experience.",
+      "total_review_ratings": 42,
+      "average_rating": 4.12
+    }
+  ]
+}
+
